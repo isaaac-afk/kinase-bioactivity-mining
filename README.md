@@ -5,7 +5,6 @@ known inhibitors of a kinase target, cleans the data, and characterizes
 the potency landscape. Default target: **EGFR (CHEMBL203)**.
 
 ## Motivation
-
 ChEMBL is the largest public curated database of bioactive molecules and
 their measured activities — the de facto reference for early-stage
 medicinal chemistry. For any kinase target of interest, ChEMBL holds the
@@ -17,7 +16,6 @@ target-level bioactivity data programmatically, converting raw IC50
 values into pIC50, and surveying the potency landscape of a target.
 
 ## What it does
-
 - Queries ChEMBL via its official Python client for IC50 records on a
   specified target
 - Filters to exact (`=` relation) nanomolar measurements
