@@ -50,7 +50,6 @@ of `bioactivity_mining.py`. Useful kinase targets:
 | RSK2 (RPS6KA3)  | CHEMBL3038469  |
 
 ## Results
-
 ![EGFR pIC50 distribution](egfr_pic50_distribution.png)
 
 EGFR is one of the most heavily-studied kinase targets in oncology, with
