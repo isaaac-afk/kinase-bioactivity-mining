@@ -59,8 +59,7 @@ IC50. The pIC50 distribution is broadly log-normal — a typical pattern for
 mature drug targets — with the most potent compounds reaching sub-nanomolar
 values (pIC50 ≥ 9).
 
-## Limitations & future work
-
+## Limitations & Future Work
 - ChEMBL aggregates literature values from many assays; absolute IC50 values
   across assays should not be directly compared without care
 - A natural extension is to fetch SMILES for the top compounds and compute
