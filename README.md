@@ -1,5 +1,4 @@
 # Kinase Bioactivity Mining
-
 A Python pipeline that mines the **ChEMBL** bioactivity database for all
 known inhibitors of a kinase target, cleans the data, and characterizes
 the potency landscape. Default target: **EGFR (CHEMBL203)**.
