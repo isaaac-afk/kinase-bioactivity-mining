@@ -25,7 +25,6 @@ values into pIC50, and surveying the potency landscape of a target.
 - Prints the top-10 most potent compounds
 
 ## Setup
-
 ```bash
 git clone https://github.com/isaaac-afk/kinase-bioactivity-mining.git
 cd kinase-bioactivity-mining
