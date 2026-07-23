@@ -9,7 +9,6 @@ their measured activities — the de facto reference for early-stage
 medicinal chemistry. For any kinase target of interest, ChEMBL holds the
 literature-reported IC50 / Ki / Kd values that anchor any modeling, hit
 triage, or competitive-landscape effort.
-
 This project demonstrates a clean, reproducible workflow for pulling
 target-level bioactivity data programmatically, converting raw IC50
 values into pIC50, and surveying the potency landscape of a target.
