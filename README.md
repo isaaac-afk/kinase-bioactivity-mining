@@ -31,7 +31,6 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-
 ```bash
 python bioactivity_mining.py
 ```
